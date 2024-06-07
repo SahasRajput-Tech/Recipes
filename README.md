@@ -1,2 +1,2 @@
 # Recipes
-This is a normal site of Recipe which I created initially
+This is the one of the projects created for learning HTML.
